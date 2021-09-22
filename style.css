@@ -22,7 +22,7 @@ p {
 }
 
   .carousel .item {
-    height: 350px;
+    height: 300px;
   }
   
   .item img {
@@ -63,8 +63,8 @@ p {
     background-color: #fff;
     border: 0;
     font-size: 11px !important;
-    letter-spacing: 4px;
-    opacity: 0.9;
+    letter-spacing: 2px;
+    opacity: 0.97;
     border-bottom: 4px solid #1b9b37c2 ;
   }
   .navbar li a, .navbar .navbar-brand {
